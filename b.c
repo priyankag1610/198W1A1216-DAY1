@@ -8,3 +8,5 @@ void main()
  printf("sum is %d",c);
  getch();
 }
+//for ex:a=5,b=5
+//c=10
